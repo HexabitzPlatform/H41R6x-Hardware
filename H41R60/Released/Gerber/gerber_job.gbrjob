@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-02-06T16:09:36Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.2.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "H41R60"
+        },
+        "Owner": "Asaad Kaadan <asaad@hexabitz.com>",
+        "Size": {
+            "X": 34.64,
+            "Y": 30
+        }
+    }
+}
